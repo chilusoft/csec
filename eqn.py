@@ -99,3 +99,7 @@ y = final_eqn[2] / final_eqn[1]
 x = (int_raw_eqn[2] - (int_raw_eqn[1]*y)) / int_raw_eqn[0]
 
 print('x =  ' + str(x)[:5] + ' & y = ' + str(y)[:5])
+'''
+TODO:: optimizing repeated code with while loops in order to reduce the lines of code and 
+readability.
+'''
